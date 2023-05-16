@@ -1,0 +1,2 @@
+# fundamentalsPython
+Exercises with python
